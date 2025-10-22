@@ -13,7 +13,7 @@ $ sudo pacman -S gcc git  --  arch/arch-based
 step 2: download the project repository
 
 
-$ git clone https://github.com/Nick-cpp/canpass
+$ git clone https://github.com/Nick-cpp/canpassproject
 
 
 step 3: compilaton and instalation
