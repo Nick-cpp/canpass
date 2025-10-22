@@ -21,6 +21,6 @@ step 3: compilaton and instalation
 
 $ cd canpass/
 
-$ g++ -std=c++17 -Wall -Wextra -O2 -o canpass canpass.cpp -lcrypto
+$ g++ -std=c++17 -o canpass canpass.cpp
 
 $ sudo install -Dm755 canpass "$pkgdir/usr/bin/canpass"
