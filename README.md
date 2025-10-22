@@ -19,7 +19,7 @@ $ git clone https://github.com/Nick-cpp/canpass
 step 3: compilaton and instalation
 
 
-$ cd canpass/
+$ cd canpassproject/
 
 $ g++ -std=c++17 -o canpass canpass.cpp
 
