@@ -1,4 +1,4 @@
-If you use Arch by the way you can get this from AUR ( yay -S canpass )
+If you use Arch by the way you can get this from AUR ( yay -S canpass or paru -S canpass )
 
 Installation guide
 
